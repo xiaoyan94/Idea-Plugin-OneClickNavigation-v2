@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.xiaoyan94.ideapluginoneclicknavigationv2
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
